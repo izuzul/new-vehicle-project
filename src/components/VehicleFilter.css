@@ -1,0 +1,21 @@
+.filter_input {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+  width: 30rem;
+  height: 2rem;
+  align-content: center;
+  gap: 5px;
+}
+
+.filter_input label {
+  text-align: left;
+}
+
+.filter_input input {
+  width: 10rem;
+  height: 100px;
+  padding: 10px;
+  font-size: 14px;
+}

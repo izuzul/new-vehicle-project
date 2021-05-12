@@ -1,0 +1,9 @@
+.vehicles-list {
+  list-style: none;
+  padding: 0;
+}
+
+.vehicles-list__fallback {
+  color: white;
+  text-align: center;
+}
